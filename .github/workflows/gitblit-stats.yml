@@ -1,0 +1,26 @@
+on:
+  schedule:
+    - cron: "0 42 * * *"
+  workflow_dispatch: # Allow for running this manually.
+
+jobs:
+  gitblit:
+    name: gitblit-gitblit-repostats
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        statsRepo: ['gitblit/gitblit', 'gitblit/gitblit-docker']
+      fail-fast: false
+      # Using 1 to help avoid commit conflicts
+      max-parallel: 1
+    steps:
+      - name: run-ghrs
+        uses: jgehrcke/github-repo-stats@v1.2.0
+        with:
+          repository:  ${{ matrix.statsRepo }}
+          # Set a GitHub API token that can read the stats
+          # repository, and that can push to the data
+          # repository (which this workflow file lives in),
+          # to store data and the report files.
+          ghtoken: ${{ secrets.GH_REPO_STATS_PAT }}
+          databranch: gitblit
