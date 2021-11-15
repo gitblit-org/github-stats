@@ -9,13 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        statsRepo: ['gitblit/gitblit', 'gitblit/gitblit-docker']
+        statsRepo: ['gitblit/gitblit-docker']
       fail-fast: false
       # Using 1 to help avoid commit conflicts
       max-parallel: 1
     steps:
       - name: run-ghrs
-        uses: jgehrcke/github-repo-stats@v1.2.0
+        uses: flaix/github-repo-stats@push-pull-push
         with:
           repository:  ${{ matrix.statsRepo }}
           # Set a GitHub API token that can read the stats
