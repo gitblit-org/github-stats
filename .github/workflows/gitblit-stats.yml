@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        statsRepo: ['gitblit/gitblit-docker']
+        statsRepo: ['gitblit/gitblit', 'gitblit/gitblit-docker']
       fail-fast: false
       # Using 1 to help avoid commit conflicts
       max-parallel: 1
