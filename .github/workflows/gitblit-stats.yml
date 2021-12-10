@@ -15,7 +15,7 @@ jobs:
       max-parallel: 1
     steps:
       - name: run-ghrs
-        uses: flaix/github-repo-stats@push-pull-push
+        uses: jgehrcke/github-repo-stats@v1.3.0
         with:
           repository:  ${{ matrix.statsRepo }}
           # Set a GitHub API token that can read the stats
