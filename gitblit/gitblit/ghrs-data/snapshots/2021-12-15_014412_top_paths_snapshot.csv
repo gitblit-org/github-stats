@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit/gitblit,354,211
+/gitblit/gitblit/issues,138,39
+/gitblit/gitblit/releases,68,46
+/gitblit/gitblit/tree/master/src,58,35
+/gitblit/gitblit/tree/master/src/main,51,30
+/gitblit/gitblit/blob/master/src/main/java/log4j.properties,42,27
+/gitblit/gitblit/pulls,40,17
+/gitblit/gitblit/releases/tag/v1.9.1,33,25
+/gitblit/gitblit/tree/master/src/main/java/com/gitblit,28,10
+/gitblit/gitblit/issues/495,27,25
