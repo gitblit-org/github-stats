@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,30,10
+/gitblit/gitblit-docker/blob/master/Dockerfile,2,2
+/gitblit/gitblit-docker/blob/master/hub-readme.md,1,1
+/gitblit/gitblit-docker/issues/4,1,1
