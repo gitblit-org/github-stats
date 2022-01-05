@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,18,8
+/gitblit/gitblit-docker/blob/master/Dockerfile,2,2
+/gitblit/gitblit-docker/tree/master/generate,2,2
+/gitblit/gitblit-docker/blob/master/goss.yaml,1,1
+/gitblit/gitblit-docker/issues,1,1
+/gitblit/gitblit-docker/releases,1,1
+/gitblit/gitblit-docker/tags,1,1
+/gitblit/gitblit-docker/tree/master/migrate,1,1
