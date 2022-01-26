@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,29,9
+/gitblit/gitblit-docker/search,6,3
+/gitblit/gitblit-docker/blob/master/Dockerfile,6,2
+/gitblit/gitblit-docker/commits/master,4,1
+/gitblit/gitblit-docker/blob/master/docker-entrypoint.sh,2,2
+/gitblit/gitblit-docker/blob/master/hub-readme.md,2,1
+/gitblit/gitblit-docker/commit/ce1daa2ec8919b9968cdb22a6ff77e236160470e,2,1
+/gitblit/gitblit-docker/issues/4,2,1
+/gitblit/gitblit-docker/blob/99f9a043ae91b720b266802582b866c26dc41b10/generate/generate_dockerfile.sh,1,1
+/gitblit/gitblit-docker/branches,1,1
