@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit/gitblit,629,400
+/gitblit/gitblit/issues,160,72
+/gitblit/gitblit/releases,102,79
+/gitblit/gitblit/search,77,21
+/gitblit/gitblit/tree/master/src,74,45
+/gitblit/gitblit/tree/master/src/main,74,41
+/gitblit/gitblit/issues/1384,66,56
+/gitblit/gitblit/releases/tag/v1.9.2,66,40
+/gitblit/gitblit/pulls,43,28
+/gitblit/gitblit/tree/master/src/main/java,41,29
