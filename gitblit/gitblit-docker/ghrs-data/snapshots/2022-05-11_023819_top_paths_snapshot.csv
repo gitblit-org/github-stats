@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,7,7
+/gitblit/gitblit-docker/blob/master/Dockerfile.alpine,1,1
+/gitblit/gitblit-docker/tree/master/generate,1,1
