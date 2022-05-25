@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,35,12
+/gitblit/gitblit-docker/blob/master/Dockerfile,11,4
+/gitblit/gitblit-docker/issues/12,6,1
+/gitblit/gitblit-docker/blob/master/docker-entrypoint.sh,5,3
+/gitblit/gitblit-docker/tree/master/migrate,5,2
+/gitblit/gitblit-docker/tree/master/generate,4,3
+/gitblit/gitblit-docker/search,3,1
+/gitblit/gitblit-docker/blob/master/generate/Dockerfile.template,2,2
+/gitblit/gitblit-docker/issues,2,2
+/gitblit/gitblit-docker/blob/master/migrate/migrate-data,2,1
