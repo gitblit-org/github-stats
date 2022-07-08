@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,4,4
+/gitblit/gitblit-docker/blob/master/Dockerfile,3,3
+/gitblit/gitblit-docker/blob/master/goss_wait.yaml,1,1
