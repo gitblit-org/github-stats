@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,12,7
+/gitblit/gitblit-docker/blob/master/Dockerfile,4,4
+/gitblit/gitblit-docker/blob/master/hub-readme.md,2,2
+/gitblit/gitblit-docker/blob/master/goss_wait.yaml,1,1
+/gitblit/gitblit-docker/branches,1,1
+/gitblit/gitblit-docker/issues,1,1
+/gitblit/gitblit-docker/releases,1,1
+/gitblit/gitblit-docker/tags,1,1
