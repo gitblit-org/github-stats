@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/gitblit/gitblit-docker,22,9
+/gitblit/gitblit-docker/blob/master/Dockerfile,5,3
+/gitblit/gitblit-docker/blob/master/Dockerfile.alpine,5,1
+/gitblit/gitblit-docker/blob/master/docker-entrypoint.sh,4,1
+/gitblit/gitblit-docker/blob/master/hub-readme.md,2,2
+/gitblit/gitblit-docker/commit/a3e2a9dc83593052027bbc083f36a09537fa63af,1,1
+/gitblit/gitblit-docker/tree/master/migrate,1,1
