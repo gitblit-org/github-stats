@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        statsRepo: ['gitblit/gitblit', 'gitblit/gitblit-docker']
+        statsRepo: ['gitblit-org/gitblit', 'gitblit-org/gitblit-docker']
       fail-fast: false
       # Using 1 to help avoid commit conflicts
       max-parallel: 1
@@ -23,4 +23,5 @@ jobs:
           # repository (which this workflow file lives in),
           # to store data and the report files.
           ghtoken: ${{ secrets.GH_REPO_STATS_PAT }}
-          databranch: gitblit
+          databranch: gitblit-org
+          ghpagesprefix: https://gitblit-org.github.io/github-stats
