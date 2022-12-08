@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,14,5
+/gitblit-org/gitblit-docker/search,7,1
+/gitblit-org/gitblit-docker/tree/99f9a043ae91b720b266802582b866c26dc41b10,4,1
+/gitblit-org/gitblit-docker/blob/master/Dockerfile,2,2
+/gitblit-org/gitblit-docker/blob/a3e2a9dc83593052027bbc083f36a09537fa63af/Dockerfile,2,1
+/gitblit-org/gitblit-docker/issues,2,1
+/gitblit-org/gitblit-docker/tree/99f9a043ae91b720b266802582b866c26dc41b10/generate,2,1
+/gitblit-org/gitblit-docker/blob/99f9a043ae91b720b266802582b866c26dc41b10/docker-entrypoint.sh,1,1
+/gitblit-org/gitblit-docker/blob/99f9a043ae91b720b266802582b866c26dc41b10/Dockerfile,1,1
+/gitblit-org/gitblit-docker/blob/99f9a043ae91b720b266802582b866c26dc41b10/Dockerfile.alpine,1,1

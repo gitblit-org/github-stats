@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,5,4
+/gitblit-org/gitblit-docker/tree/master/generate,2,1
+/gitblit-org/gitblit-docker/blob/4feb65800dd69b3f12a52ebb87793dc053edf7cc/generate/Dockerfile.template,1,1
+/gitblit-org/gitblit-docker/blob/master/generate/Dockerfile.template,1,1
+/gitblit-org/gitblit-docker/blob/master/generate/generate_dockerfile.sh,1,1
+/gitblit-org/gitblit-docker/blob/master/generate/.gitignore,1,1
+/gitblit-org/gitblit-docker/search,1,1
