@@ -1,4 +1,4 @@
-## github-repo-stats for gitblit/gitblit
+## github-repo-stats for gitblit-org/gitblit
 
 - statistics for repository https://github.com/gitblit-org/gitblit
 - managed by GitHub Action: https://github.com/jgehrcke/github-repo-stats
@@ -6,3 +6,5 @@
 
 **Latest report PDF**: [report.pdf](https://github.com/gitblit-org/github-stats/raw/gitblit-org/gitblit-org/gitblit/latest-report/report.pdf)
 
+
+**Latest report HTML via GitHub pages**: [report.html](https://gitblit-org.github.io/github-stats/gitblit-org/gitblit/latest-report/report.html)
