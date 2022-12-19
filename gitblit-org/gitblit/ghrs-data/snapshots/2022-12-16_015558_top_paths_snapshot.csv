@@ -1,11 +1,7 @@
 url_path,views_total,views_unique
-/gitblit/gitblit,147,91
-/gitblit-org/gitblit,144,87
-/gitblit-org/gitblit/tags,90,2
-/gitblit/gitblit/issues/1384,81,68
-/gitblit/gitblit/search,75,4
-/gitblit-org/gitblit/issues/1384,63,57
-/gitblit/gitblit/tags,43,5
-/gitblit/gitblit/releases,39,25
-/gitblit/gitblit/issues,39,15
-/gitblit-org/gitblit/releases,36,22
+/gitblit-org/gitblit,291,178
+/gitblit-org/gitblit/issues/1384,144,125
+/gitblit-org/gitblit/tags,133,7
+/gitblit-org/gitblit/releases,75,47
+/gitblit-org/gitblit/search,75,4
+/gitblit-org/gitblit/issues,39,15
