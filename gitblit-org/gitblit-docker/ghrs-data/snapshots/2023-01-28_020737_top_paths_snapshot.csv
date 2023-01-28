@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,13,7
+/gitblit-org/gitblit-docker/blob/643dd26c0a909a273eb1dcec35eef4081b4b2771/Dockerfile,3,1
+/gitblit-org/gitblit-docker/issues,2,1
+/gitblit-org/gitblit-docker/tree/master/generate,2,1
+/gitblit-org/gitblit-docker/actions,1,1
+/gitblit-org/gitblit-docker/blob/643dd26c0a909a273eb1dcec35eef4081b4b2771/docker-compose.yml,1,1
+/gitblit-org/gitblit-docker/blob/643dd26c0a909a273eb1dcec35eef4081b4b2771/docker-entrypoint.sh,1,1
+/gitblit-org/gitblit-docker/blob/master/generate/generate_dockerfile.sh,1,1
+/gitblit-org/gitblit-docker/commit/643dd26c0a909a273eb1dcec35eef4081b4b2771,1,1
+/gitblit-org/gitblit-docker/commit/a3e2a9dc83593052027bbc083f36a09537fa63af,1,1
