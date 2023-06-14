@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit/tree/master/src/main/java/com/gitblit/auth,280,26
+/gitblit-org/gitblit/tree/master/src/main/java/com/gitblit,250,31
+/gitblit-org/gitblit,249,157
+/gitblit-org/gitblit/blob/master/src/main/java/com/gitblit/auth/AuthenticationProvider.java,177,24
+/gitblit-org/gitblit/tree/master/src/main/java,160,41
+/gitblit-org/gitblit/tree/master/src,127,39
+/gitblit-org/gitblit/tree/master/src/main,119,36
+/gitblit-org/gitblit/blob/master/src/main/java/com/gitblit/auth/HtpasswdAuthProvider.java,119,18
+/gitblit-org/gitblit/issues/461,90,71
+/gitblit-org/gitblit/blob/master/src/main/java/com/gitblit/auth/HttpHeaderAuthProvider.java,88,16
