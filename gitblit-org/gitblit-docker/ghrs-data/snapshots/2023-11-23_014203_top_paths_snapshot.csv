@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,8,3
+/gitblit-org/gitblit-docker/tree/master/generate,3,1
+/gitblit-org/gitblit-docker/blob/b534912094064b8725632b04438cb34bd3fda962/generate/Dockerfile.template,2,1
+/gitblit-org/gitblit-docker/blob/b534912094064b8725632b04438cb34bd3fda962/generate/generate_dockerfile.sh,2,1
+/gitblit-org/gitblit-docker/blob/master/migrate/migrate-data,2,1
+/gitblit-org/gitblit-docker/tree/master,2,1
+/gitblit-org/gitblit-docker/tree/master/migrate,2,1
