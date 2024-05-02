@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,20,13
+/gitblit-org/gitblit-docker/blob/master/Dockerfile,18,5
+/gitblit-org/gitblit-docker/blob/master/hub-readme.md,7,2
+/gitblit-org/gitblit-docker/actions,2,2
+/gitblit-org/gitblit-docker/tags,2,1
+/gitblit-org/gitblit-docker/tree/master/generate,2,1
+/gitblit-org/gitblit-docker/tree/master/migrate,2,1
+/gitblit-org/gitblit-docker/projects,1,1
+/gitblit-org/gitblit-docker/releases/tag/v1.9.0-1,1,1
+/gitblit-org/gitblit-docker/releases/tag/v1.9.3-2,1,1
