@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,11,7
+/gitblit-org/gitblit-docker/actions,2,2
+/gitblit-org/gitblit-docker/blob/master/Dockerfile,2,1
+/gitblit-org/gitblit-docker/blob/master/Dockerfile.alpine,2,1
+/gitblit-org/gitblit-docker/issues,2,1
+/gitblit-org/gitblit-docker/tree/master/generate,2,1
+/gitblit-org/gitblit-docker/tree/master/migrate,2,1
+/gitblit-org/gitblit-docker/releases,1,1
+/gitblit-org/gitblit-docker/wiki,1,1
