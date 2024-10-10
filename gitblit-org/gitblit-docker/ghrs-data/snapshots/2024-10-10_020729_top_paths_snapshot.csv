@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,28,11
+/gitblit-org/gitblit-docker/blob/master/Dockerfile,13,6
+/gitblit-org/gitblit-docker/blob/master/Dockerfile.alpine,8,4
+/gitblit-org/gitblit-docker/blob/master/hub-readme.md,3,3
+/gitblit-org/gitblit-docker/actions,2,2
+/gitblit-org/gitblit-Docker,1,1
+/gitblit-org/gitblit-docker/blob/master/docker-entrypoint.sh,1,1
+/gitblit-org/gitblit-docker/blob/master/generate/Dockerfile.template,1,1
+/gitblit-org/gitblit-docker/blob/master/generate/generate_dockerfile.sh,1,1
+/gitblit-org/gitblit-docker/blob/master/goss.yaml,1,1
