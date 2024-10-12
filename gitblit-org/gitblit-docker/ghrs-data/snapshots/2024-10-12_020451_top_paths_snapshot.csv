@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,12,5
+/gitblit-org/gitblit-docker/blob/master/Dockerfile,5,1
+/gitblit-org/gitblit-docker/actions,2,2
+/gitblit-org/gitblit-docker/blob/master/Dockerfile.alpine,2,1
+/gitblit-org/gitblit-docker/blob/master/docker-entrypoint.sh,1,1
+/gitblit-org/gitblit-docker/blob/master/goss.yaml,1,1
+/gitblit-org/gitblit-docker/blob/master/hub-readme.md,1,1
+/gitblit-org/gitblit-docker/blob/master/README.md,1,1
