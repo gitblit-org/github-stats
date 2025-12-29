@@ -1,5 +1,5 @@
 % Statistics for gitblit-org/gitblit-maven
-% Generated for [gitblit-org/gitblit-maven](https://github.com/gitblit-org/gitblit-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-28 02:58 UTC.
+% Generated for [gitblit-org/gitblit-maven](https://github.com/gitblit-org/gitblit-maven) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-29 02:58 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `github.com`, 02: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/gh-pages/com`, 03: `/tree/gh-pages/com/gitblit/gbapi/1.10.0`, 04: `/tree/gh-pages/com/gitblit`, 05: `/tree/gh-pages/com/google/inject/extensions/guice-servlet`, 06: `/tree/gh-pages/com/gitblit/gbapi`, 07: `/blob/gh-pages/com/gitblit/gitblit/1.10.0/gitblit-1.10.0.war`, 08: `/labels/bug`, 09: `/tree/gh-pages/com/google/inject/extensions/guice-servlet/4.0-gb1`, 10: `/blob/gh-pages/com/gitblit/gitblit/1.10.0/gitblit-1.10.0.zip`, 11: `/blob/gh-pages/com/gitblit/gbapi/1.10.0/gbapi-1.10.0.pom`, 12: `/tree/gh-pages/com/gitblit/gitblit`, 13: `/tags`, 14: `/tree/gh-pages/.meta`, 15: `/labels`
+Top 15 paths: 01: `/`, 02: `/tree/gh-pages/com`, 03: `/tree/gh-pages/com/gitblit/gbapi/1.10.0`, 04: `/tree/gh-pages/com/gitblit`, 05: `/tree/gh-pages/com/google/inject/extensions/guice-servlet`, 06: `/tree/gh-pages/com/gitblit/gbapi`, 07: `/blob/gh-pages/com/gitblit/gitblit/1.10.0/gitblit-1.10.0.war`, 08: `/blob/gh-pages/com/gitblit/gbapi/1.10.0/gbapi-1.10.0.pom`, 09: `/labels`, 10: `/tree/gh-pages/com/gitblit/gitblit`, 11: `/labels/bug`, 12: `/tree/gh-pages/.meta`, 13: `/tree/gh-pages/com/gitblit/gitblit/1.10.0`, 14: `/blob/gh-pages/com/gitblit/gitblit/1.10.0/gitblit-1.10.0.zip`, 15: `/tags`
 
 
 <script type="text/javascript">
