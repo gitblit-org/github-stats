@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,7,4
+/gitblit-org/gitblit-docker/issues,3,2
+/gitblit-org/gitblit-docker/blob/master/Dockerfile.alpine,2,2
+/gitblit-org/gitblit-docker/issues/13,2,1
+/gitblit-org/gitblit-docker/tree/v1.10.0-1,2,1
+/gitblit-org/gitblit-docker/blob/master/.dockerignore,1,1
+/gitblit-org/gitblit-docker/blob/master/dgoss_run.sh,1,1
+/gitblit-org/gitblit-docker/blob/v1.10.0-1/Dockerfile,1,1
+/gitblit-org/gitblit-docker/commit/0d939b21b2e7b8b80f9771b19332a7a692be47d3,1,1
+/gitblit-org/gitblit-docker/commit/c0a10325c40a179f62aa5155d1fcd7c8f00a9644,1,1
