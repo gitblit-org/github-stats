@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit-docker,3,3
+/gitblit-org/gitblit-docker/commits/master/Dockerfile.alpine,1,1
+/gitblit-org/gitblit-docker/tags,1,1
