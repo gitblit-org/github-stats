@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/gitblit-org/gitblit,138,81
+/gitblit-org/gitblit/releases/tag/v1.10.0,33,33
+/gitblit-org/gitblit/releases,27,23
+/gitblit-org/gitblit/blob/master/.classpath,11,4
+/gitblit-org/gitblit/issues,9,6
+/gitblit-org/gitblit/issues/533,9,5
+/gitblit-org/gitblit/issues/706,6,6
+/gitblit-org/gitblit/pulls,6,4
+/gitblit-org/gitblit/compare/master...tanqidong1992:gitblit:{{ urlEncodedRefName }},5,5
+/gitblit-org/gitblit/issues/1273,5,5
